@@ -1,8 +1,7 @@
-# Atividade de Data Science
-## Formação Tecnológica 4.0 - COMPET
+# Atividade de Data Science - Formação Tecnológica 4.0 - COMPET
 
 ## Descrição do Projeto
-Este projeto realiza uma análise exploratória de dados educacionais fornecidos pelo INEP, com foco nas taxas de rendimento escolar (aprovação, reprovação e abandono) em diferentes níveis de ensino e regiões do Brasil no ano de 2020.
+Atividade proposta pelo professor de Data Science, na formação 4.0. Este projeto realiza uma análise exploratória de dados educacionais fornecidos pelo INEP, com foco nas taxas de rendimento escolar (aprovação, reprovação e abandono) em diferentes níveis de ensino e regiões do Brasil no ano de 2020.
 
 ## Estrutura do Projeto
 - **analise.ipynb**: Notebook principal contendo o código e a análise.
